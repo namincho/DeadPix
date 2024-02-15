@@ -1,5 +1,6 @@
 # DeadPix
 Fix dead or stuck pixels on your screen, for free. Now comes with multi-monitor support!
+It's test sentences
 
 ## Dependencies
 * [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)
